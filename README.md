@@ -94,7 +94,7 @@ The final step used was pushing the finished product to github.
 * In your Repository section, I selected the Repository to I wish to deploy.
 * In the top horizontal menu, I located and clicked the Settings link.
 * Inside the Setting page, around halfway down I located the GitHub Pages Section.
-* Under the Source, I selected the None tab and change it to Master and clicked Save.
+* Under the Source, I selected the None tab and change it to Main and clicked Save.
 * Finally once the page resets I scrolled back down to the GitHub Pages Section to see the following message "Your site is ready to be published at (Link to the GitHub Page Web Address)". There is the link to the published site, that I will use to submit my project and also able to access it from different devices and browsers.
 
 ### Making a Local Clone

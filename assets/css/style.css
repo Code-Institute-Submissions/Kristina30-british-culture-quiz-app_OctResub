@@ -122,4 +122,27 @@ body {
     display: inline-grid;
   }
 
+  /* Start Footer */
+.ul-list {
+    margin: 0;
+    list-style: none;
+    padding: 0;
+    display: inline-flex;
+  }
+  
+  .social-media-link a i {
+    color: #f9ae22;
+    font-size: 2rem;
+    margin: 10px;
+  }
+  
+  .social-media-link a i:hover {
+    color: #fafafa;
+    font-size: 1.8rem;
+  }
+  
+  .copyright-content {
+    color: #f9ae22;
+    text-transform: uppercase;
+  }
   

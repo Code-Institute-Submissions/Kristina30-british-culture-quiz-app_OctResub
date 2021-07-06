@@ -318,6 +318,18 @@ body {
       display: inline-block;
     }
 
+    #progressBar {
+      width: 10rem;
+    }
+
+    .btn {
+      width: 18rem;
+    }
+
+    input {
+      width: 16rem;
+    }
+
   }
 
   @media screen and (max-width: 1200px) {

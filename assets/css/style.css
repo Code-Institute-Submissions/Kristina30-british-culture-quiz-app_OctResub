@@ -1,2 +1,11 @@
 /* Google Fonts link */
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+body {
+    background-color: #333;
+    font-family: 'Playfair Display', sans-serif;
+    font-weight: 400;
+    font-size: 100%;
+    color: #fafafa;
+    text-align: center;
+}

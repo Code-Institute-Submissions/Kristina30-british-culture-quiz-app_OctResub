@@ -39,3 +39,33 @@ body {
     display: none;
   }
   
+/* Heading and Hero Image Style*/
+.main-heading {
+    color: #f9ae22;
+    font-size: 2rem;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 14px 230px;
+  }
+  
+  .hero-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .intro-paragraph {
+    color: #fafafa;
+    font-size: 1.5rem;
+    text-align: center;
+    padding: 14px 230px;
+  }
+  
+  /* Add style to the separator */
+  .separator {
+    width: 68%;
+    height: 1px;
+    border-radius: 5px;
+  }

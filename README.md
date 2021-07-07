@@ -30,6 +30,17 @@ This is a quiz game in regards of the British Culture. It is designed to be resp
 
 ![British Culture Quiz App](https://github.com/Kristina30/british-culture-quiz-app/blob/main/assets/images/end-page-screenshot.png)
 
+## Wireframes
+
+* Those aren't my original wireframes as I had issues with git pod and I have decided to remove the High Score Page and the timer on the Actual Quiz Page. I have also re-typed the whole Quiz game on different repository due to the issues with GITPOD. 
+
+![British Culture Quiz App Home Page](https://github.com/Kristina30/british-culture-quiz-app/blob/main/assets/images/home-page.png)
+
+![British Culture Quiz App Page](https://github.com/Kristina30/british-culture-quiz-app/blob/main/assets/images/game-page.png)
+
+![British Culture End Quiz App Page](https://github.com/Kristina30/british-culture-quiz-app/blob/main/assets/images/your-score-page.png)
+
+
 
 
 ## User Stories
@@ -136,7 +147,8 @@ The final step used was pushing the finished product to github.
 * Press Enter to have the local clone created.
 
 ## Acknowledgements
-I received great advice and feedback from my mentor Medale Oluwafemi. 
+I received great advice and feedback from my mentor and the currage that I am able to overcome the issues faced while creating the project.
+* Medale Oluwafemi
 I have also watched some walk through tutorials to helps me understand the logic of what types of functions would need to be used to make make quiz app functional.
 * Brian Design
 * Dev Ed

@@ -13,7 +13,17 @@ This is a quiz game in regards of the British Culture. It is designed to be resp
 
 ![British Culture Quiz App](https://github.com/Kristina30/british-culture-quiz-app/blob/main/assets/images/home-page-screenshot.png)
 
+### Quiz Page
+* Progress bar - inserted on the left side on the top of the page. It tells the user how many questions needs to be answered.
+* Scores - the score updates with every answer selected. Correct answer award 200 points, Inscorrect answer give 0 with a maximum of 2000 avaibale at the end.
+* Question section - inserted above the answers containers.
+* Answers Containers - give the user a choice of different answers. The selected answers will respond with relevant color changes to reflect the response. Correct answers will be colored in Green / Incorrect answers will be colored in Red.
+
+![British Culture Quiz App](https://github.com/Kristina30/british-culture-quiz-app/blob/main/assets/images/quiz-page-screenshot.png)
+
+### End Quiz Page
 * 
+
 
 
 ## User Stories

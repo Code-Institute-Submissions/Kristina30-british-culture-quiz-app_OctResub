@@ -22,7 +22,13 @@ This is a quiz game in regards of the British Culture. It is designed to be resp
 ![British Culture Quiz App](https://github.com/Kristina30/british-culture-quiz-app/blob/main/assets/images/quiz-page-screenshot.png)
 
 ### End Quiz Page
-* 
+* Final Score - the score updates with every answer selected. Correct answer award 200 points.
+* Input Field - requires the user to type their name in order to save their score.
+* Save Button - saves initials and score to local storage.
+* Play Again Button - takes the user back to the quiz game.
+* Go Home Button - takes the user back to the Home Page.
+
+![British Culture Quiz App](https://github.com/Kristina30/british-culture-quiz-app/blob/main/assets/images/end-page-screenshot.png)
 
 
 

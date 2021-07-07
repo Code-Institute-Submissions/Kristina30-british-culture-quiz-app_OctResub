@@ -13,7 +13,7 @@ username.addEventListener('keyup', () => {
    saveScore.disabled = !username.value;
 });
 /*  When save button is clicked, save the user name and score. */
-let saveHighScore = e => {
+ let saveHighScore = e => {
     e.preventDefault();
 
     const score = {
@@ -24,6 +24,14 @@ let saveHighScore = e => {
     highScores.push(score);
 };
 
-function Redirect(pageName) {
+highScores.sort((a, b) => {
+    return b.score - a.score;
+});
+   highScores.splice(6);
+
+   localStorage.setItem('highScores', JSON.stringify(highScores)); 
+   window.location.assign('https://kristina30.github.io/british-culture-quiz-app/end-quiz.html');
+
+   function Redirect(pageName) {
     window.location.href = pageName;
 };

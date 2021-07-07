@@ -2,7 +2,7 @@
 
 This is a quiz game in regards of the British Culture. It is designed to be responsive and accessible on a range of devices, making it easy to navigate for the user. The main goal of this project is to provide a positive emotional experience for the users.
 
-![British Culture Quiz App]()
+![British Culture Quiz App](https://github.com/Kristina30/british-culture-quiz-app/blob/main/assets/images/quiz-responsivedesign.png)
 
 ## This project has the following features:
 ### Home Page

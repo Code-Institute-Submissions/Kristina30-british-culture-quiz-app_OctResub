@@ -149,8 +149,8 @@ The final step used was pushing the finished product to github.
 * Press Enter to have the local clone created.
 
 ## Acknowledgements
-I received great advice and feedback from my mentor and the currage that I am able to overcome the issues faced while creating the project.
-* Medale Oluwafemi
+I received great advice and feedback from my mentor Medale Oluwafemi.
+
 I have also watched some walk through tutorials to helps me understand the logic of what types of functions would need to be used to make make quiz app functional.
 * Brian Design
 * Dev Ed

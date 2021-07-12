@@ -148,6 +148,9 @@ The final step used was pushing the finished product to github.
 * Type git clone, and paste the link you copied in step 3.
 * Press Enter to have the local clone created.
 
+### Issues
+* I had a lot of dificulties creating this project as my gitpod having a lot of issues and most of my code disapiared. To ensure any further issues I have created a new repository and re-typed all the code. The old repository (british-culture-quiz) is still in my github account so that the assessor can view it if needed.
+
 ## Acknowledgements
 I received great advice and feedback from my mentor Medale Oluwafemi.
 

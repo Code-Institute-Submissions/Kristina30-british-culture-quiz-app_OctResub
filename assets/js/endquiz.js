@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */
 // -- End Game Page Script -- //
 //  Variables 
 const username = document.querySelector('#username');

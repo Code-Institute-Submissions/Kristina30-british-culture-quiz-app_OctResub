@@ -1,3 +1,4 @@
+/*jshint esversion: 6 */
 // -- Start Game Page -- //
 //  Variables  
 const question = document.querySelector('#question');
@@ -122,7 +123,7 @@ let getNewQuestion = () => {
     question.innerText = currentQuestion.question;
 
     answerText.forEach(choice => {
-        const number = choice.dataset['number'];
+        const number = choice.dataset.number;
         choice.innerText = currentQuestion['choice' + number];
     });
 
@@ -138,7 +139,7 @@ answerText.forEach(choice => {
 
         acceptingAnswer = false;
         const selectedChoice = e.target;
-        const selectedAnswer = selectedChoice.dataset['number'];
+        const selectedAnswer = selectedChoice.dataset.number;
 
         let classToApply = selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
 

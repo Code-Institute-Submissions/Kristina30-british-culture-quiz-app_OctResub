@@ -23,6 +23,7 @@ username.addEventListener('keyup', () => {
     };
 
     highScores.push(score);
+    alert("Thank you " + username.value + ", your score of " + recentScore + " points has been saved!");
 };
 
 highScores.sort((a, b) => {

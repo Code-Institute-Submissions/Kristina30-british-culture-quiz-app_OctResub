@@ -26,7 +26,7 @@ This is a quiz game in regards of the British Culture. It is designed to be resp
 ### End Quiz Page
 * Final Score - the score updates with every answer selected. Correct answer award 200 points.
 * Input Field - requires the user to type their name in order to save their score.
-* Save Button - saves initials and score to local storage.
+* Save Button - saves initials and score to local storage also there is a message displaing that the user's score has been saved on a pop up window at the top of the page.
 * Play Again Button - takes the user back to the quiz game.
 * Go Home Button - takes the user back to the Home Page.
 
@@ -102,7 +102,10 @@ Imagery is very important. The large, background hero image is designed to be st
 The W3C Markup Validator and W3C CSS Validator Services were used to validate the code of my project to ensure there were no syntax errors.
    * W3C Markup Validator - [Results](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fkristina30.github.io%2Fbritish-culture-quiz-app%2F)
    * W3C CSS Validator - [Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fkristina30.github.io%2Fbritish-culture-quiz-app%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-   * JavaScript Validator - Detecting errors and potential problems in JavaScript code.
+   * JavaScript Validator - Passed without any errors. JSHint marks some of my functions uncalled. Please see explanation below.
+   1. MakeNaveResponsive function is called on nav icon when used in responsive mode. This function has been called in my index.html to make my nav bar responsive.
+   2. ReDirect function is called in end-quiz.html. This function redirectsthe window location to a specified page name.
+   3. SaveHighScore function is called in end-quiz.html in order to save the score of the user. This functionality makes the webpage future proof and gives me an opportunity to expand the functionality and to create a new page in order to display the High Scores in a separate page.
 
 ### Further Testing
 
